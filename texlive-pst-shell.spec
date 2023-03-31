@@ -1,6 +1,6 @@
 Name:		texlive-pst-shell
 Version:	56070
-Release:	1
+Release:	2
 Summary:	Plotting sea shells
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-shell
