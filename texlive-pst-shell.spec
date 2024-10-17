@@ -3,7 +3,7 @@ Version:	56070
 Release:	2
 Summary:	Plotting sea shells
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-shell
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pst-shell
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-shell.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-shell.doc.r%{version}.tar.xz
